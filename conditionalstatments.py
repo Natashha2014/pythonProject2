@@ -1,0 +1,40 @@
+if, elif, else...
+items = 3
+if items < 2:
+    print("the minimum qty of items in the cart should not be less then 2")
+elif items > 3:
+    print("you have to many items in your cart please offload some")
+elif items > 10:
+    print("anything")
+else:
+#     print("no requirements are met")
+items = 5:
+if items < 2:
+    print("the minimum qty of items in the cart should not be less then 2")
+elif items == 3:
+    print("you have meet expectation")
+elif items != 3:
+    print("you have meet expectation")
+ elif items > 3:
+    print("you have to many items in the cart please offload some")
+else:
+    print("no requirements are met")
+    # to check the value in conditional statements for equal  you use == (duble wqual sing)
+    # to check the value in conditional statements for not equil you use != (exsxlamation marck and equals
+
+age = 100
+height = 5.9
+
+if age >= 21 and height >= 6.0:
+    print("you are at the legal age to buy alcohol")
+elif age < 21 and height < 6.0:
+    print("you are to young to drink")
+
+else:
+    print("you are alcoholic")
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+2023-05-02 22:27:37,036 : ERROR : pytestDemo.test_logginDemo : Error statement
+2023-05-02 22:27:37,037 : CRITICAL : pytestDemo.test_logginDemo : Critical statement
